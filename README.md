@@ -3,6 +3,7 @@
 This project demonstrates practical financial analysis using Excel — showing the complete journey of a loan from start to finish.
 It’s a valuable example of data-driven decision-making in personal finance, lending, and credit management contexts.
 
+
 ## 🎯 Objectives
 - Build an automated Excel model for loan repayment tracking.
 - Analyze how payment structure changes across the loan period.
@@ -16,6 +17,10 @@ It’s a valuable example of data-driven decision-making in personal finance, le
 3. How does changing the payment frequency (e.g., monthly vs. biweekly) affect total interest paid?
 4. How does the loan term (years) affect total repayment cost?
 5. What is the cumulative principal and interest paid after one year?
+
+Here’s a preview of the main Excel file. You can download the full version directly from this repository.
+<img width="1034" height="465" alt="image" src="https://github.com/user-attachments/assets/53ff11cf-e7a4-471f-9f38-7e9eaac6e773" />
+
 
 ## 🧰 Tools & Skills Demonstrated
 - Microsoft Excel: Formulas, conditional formatting, and structured tables
